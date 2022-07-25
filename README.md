@@ -1,0 +1,1 @@
+# How-To-Disable-The-Third-Party-PCIe-Card-Default-Cooling-Response-On-PowerEdge-13G-Servers.
